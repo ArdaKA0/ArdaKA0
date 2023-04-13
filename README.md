@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Arda</h1>
 <h3 align="center">Android App Developer - Website Developer</h3>
 
+<h3 align="left">Connect with me:</h3>
 - 💬 **ardaklnc35@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
